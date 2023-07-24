@@ -1,2 +1,2 @@
-# HTML-Styles-CSS
-CSS stands for Cascading Style Sheets.
+# HTML-Styles-CSs
+Cascading Style Sheets.
